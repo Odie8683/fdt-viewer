@@ -26,6 +26,7 @@ Options:
 
 #### Installation
 ```console
+sudo apt install -y qtbase5-dev-tools qtbase5-dev
 user@host # git clone --recursive https://github.com/dev-0x7C6/fdt-viewer.git
 user@host # cd fdt-viewer
 user@host # cmake . -DCMAKE_INSTALL_PREFIX=/usr
